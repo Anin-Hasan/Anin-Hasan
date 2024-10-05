@@ -57,7 +57,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Anin-Hasan&theme=default&hide_border=true"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Anin-Hasan&theme=default&show_icons=true&hide_border=true&count_private=true" />
+  <img width=370 src="https://github-readme-stats.vercel.app/api?username=Anin-Hasan&theme=default&show_icons=true&hide_border=true&count_private=true" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anin-Hasan&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </div>
